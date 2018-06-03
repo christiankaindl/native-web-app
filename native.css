@@ -1,0 +1,15 @@
+/* For context, see  */
+
+html,
+body {
+    touch-action: none;
+    -webkit-touch-callout: none;
+    position: fixed;
+    overflow: hidden;
+    left: 0px;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+* {
+    user-select: none;
+}
