@@ -1,0 +1,24 @@
+{
+  "name": "native-web-app",
+  "version": "1.0.0",
+  "description": "Defaults for native-like Progressive Web Apps",
+  "main": "native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiankaindl/native-web-app.git"
+  },
+  "keywords": [
+    "PWA",
+    "JavaScript",
+    "native"
+  ],
+  "author": "Christian Kaindl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiankaindl/native-web-app/issues"
+  },
+  "homepage": "https://github.com/christiankaindl/native-web-app#readme"
+}
